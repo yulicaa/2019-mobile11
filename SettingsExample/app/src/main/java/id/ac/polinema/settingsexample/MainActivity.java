@@ -16,7 +16,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 import id.ac.polinema.settingsexample.fragments.AdvancedFragment;
 import id.ac.polinema.settingsexample.fragments.DialogsFragment;
 import id.ac.polinema.settingsexample.fragments.HomeFragment;
-import id.ac.polinema.settingsexample.fragments.SettingsFragment;
+import id.ac.polinema.settingsexample.fragments.SettingFragments;
 import id.ac.polinema.settingsexample.fragments.WidgetsFragment;
 
 public class MainActivity extends AppCompatActivity
